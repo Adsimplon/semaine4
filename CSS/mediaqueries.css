@@ -1,0 +1,93 @@
+/*body
+{
+	background: red;
+}
+
+h1
+{
+	color:white;
+}
+
+@media screen and (max-width: 650px){
+
+body{
+	background: yellow;
+}
+
+h1
+{
+	color: black;
+	font-size: 1rem;
+}
+
+} */
+
+
+body
+{
+	background-image: "https://cdn.pixabay.com/photo/2020/02/27/12/21/martinique-4884459_1280.jpg";
+}
+
+h1
+{
+	color:red;
+}
+
+@media screen and (max-width: 1000px){
+
+body{
+	background-image:"https://pixabay.com/fr/photos/navires-ferry-croisi%C3%A8re-baltique-2350485/";
+}
+
+h1
+{
+	color: black;
+	font-size: 1rem;
+}
+
+}
+
+
+@media screen and (max-width: 800px){
+
+body{
+	background-image:"";
+}
+
+h1
+{
+	color: yellow;
+	font-size: 1rem;
+}
+
+}
+
+
+@media screen and (max-width: 600px){
+
+body{
+	background-image:"";
+}
+
+h1
+{
+	color: blue;
+	font-size: 1rem;
+}
+
+}
+
+
+@media screen and (max-width: 400px){
+
+body{
+	background-image:"";
+}
+
+h1
+{
+	color:pink;
+	font-size: 1rem;
+}
+
+}
